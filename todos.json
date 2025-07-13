@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "boshqa dasturlash tilini urganish - 👎🏻",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Go dasturlashni o‘rganish",
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "Yangi sarlavha",
+    "done": true
+  }
+]
