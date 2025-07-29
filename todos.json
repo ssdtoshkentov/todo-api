@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "boshqa dasturlash tilini urganish - 👎🏻",
+    "title": "Learn another programming language - 👎🏻",
     "done": false
   },
   {
     "id": 2,
-    "title": "Go dasturlashni o‘rganish",
+    "title": "Learn Go programming",
     "done": true
   },
   {
     "id": 3,
-    "title": "Yangi sarlavha",
+    "title": "New title",
     "done": true
   }
 ]
